@@ -1,0 +1,1 @@
+cookbook 'accounting', :path => '/Users/tylerflint/workspace/pagoda/chef/accounting'
